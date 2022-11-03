@@ -17,7 +17,7 @@
 
 ## 🪧 Demo
 
-![Typing Cloner]()
+![Typing Cloner](https://www.linkpicture.com/q/Screenshot-2022-11-03-093123.png)
 
 
 
